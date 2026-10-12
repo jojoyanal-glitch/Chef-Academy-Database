@@ -67,7 +67,7 @@ insert into Instructor values (2, 'Rama', 'Mahmoud',' Home Cooking', 'RamaMahmou
 insert into Instructor values (3, 'Hanady', 'Abdullah',' Home Cooking', 'HanadyAbdullah@chef.com');
 
 insert into Student values (101, 'JudeJazzazi@gmail.com', 'Jude', 'Jazzazi');
-insert into Student values (102, 'BasharMohammad@gmail.com', 'Bashar', 'Mohammad');
+insert into Student values (102, 'AhmadMohammad@gmail.com', 'Ahmad', 'Mohammad');
 insert into Student values (103, 'YanalNaje@gmail.com', 'Yanal', 'Naje');
 
 insert into StudentPhone values (101 , '0791234567');
